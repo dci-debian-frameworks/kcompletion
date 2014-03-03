@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4.96.0 amd64
-libKF5Completion.so.4 libkf5completion4 #MINVER#
+libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN11KCompletion10allMatchesERK7QString@Base 4.96.0
  _ZN11KCompletion10allMatchesEv@Base 4.96.0
  _ZN11KCompletion10removeItemERK7QString@Base 4.96.0
