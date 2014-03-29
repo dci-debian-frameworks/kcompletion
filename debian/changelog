@@ -1,4 +1,4 @@
-kcompletion (4.97.0-0ubuntu1) UNRELEASED; urgency=medium
+kcompletion (4.98.0-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Jonathan Riddell ]
   * New upstream alpha release
@@ -7,7 +7,10 @@ kcompletion (4.97.0-0ubuntu1) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
   * Fix symbols 
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 03 Mar 2014 12:15:11 +0000
+  [ Jonathan Riddell ]
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 29 Mar 2014 10:23:58 +0000
 
 kcompletion (4.96.0-0ubuntu1) trusty; urgency=medium
 
