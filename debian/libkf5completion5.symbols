@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4.97.0 amd64
+# SymbolsHelper-Confirmed: 4.98.0 amd64
 libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN11KCompletion10allMatchesERK7QString@Base 4.97.0
  _ZN11KCompletion10allMatchesEv@Base 4.97.0
@@ -28,9 +28,9 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN11KCompletionD0Ev@Base 4.97.0
  _ZN11KCompletionD1Ev@Base 4.97.0
  _ZN11KCompletionD2Ev@Base 4.97.0
- _ZN13KCompTreeNode5allocE@Base 4.97.0
  _ZN13KCompTreeNode6insertERK5QCharb@Base 4.97.0
  _ZN13KCompTreeNode6removeERK7QString@Base 4.97.0
+ _ZN13KCompTreeNode7m_allocE@Base 4.98.0
  _ZN13KCompTreeNodeD1Ev@Base 4.97.0
  _ZN13KCompTreeNodeD2Ev@Base 4.97.0
  _ZN14KCompletionBox10setVisibleEb@Base 4.97.0
@@ -41,9 +41,9 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN14KCompletionBox13slotActivatedEP15QListWidgetItem@Base 4.97.0
  _ZN14KCompletionBox13userCancelledERK7QString@Base 4.97.0
  _ZN14KCompletionBox14setTabHandlingEb@Base 4.97.0
- _ZN14KCompletionBox15sizeAndPositionEv@Base 4.97.0
  _ZN14KCompletionBox16setCancelledTextERK7QString@Base 4.97.0
  _ZN14KCompletionBox16staticMetaObjectE@Base 4.97.0
+ _ZN14KCompletionBox19resizeAndRepositionEv@Base 4.98.0
  _ZN14KCompletionBox19setActivateOnSelectEb@Base 4.97.0
  _ZN14KCompletionBox2upEv@Base 4.97.0
  _ZN14KCompletionBox3endEv@Base 4.97.0
@@ -71,7 +71,6 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN15KCompletionBase19setCompletionObjectEP11KCompletionb@Base 4.97.0
  _ZN15KCompletionBase20useGlobalKeyBindingsEv@Base 4.97.0
  _ZN15KCompletionBase29setAutoDeleteCompletionObjectEb@Base 4.97.0
- _ZN15KCompletionBase5setupEbbb@Base 4.97.0
  _ZN15KCompletionBaseC1Ev@Base 4.97.0
  _ZN15KCompletionBaseC2Ev@Base 4.97.0
  _ZN15KCompletionBaseD0Ev@Base 4.97.0
@@ -81,8 +80,6 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN15KPixmapProviderD0Ev@Base 4.97.0
  _ZN15KPixmapProviderD1Ev@Base 4.97.0
  _ZN15KPixmapProviderD2Ev@Base 4.97.0
- _ZN16KHistoryComboBox10initWidgetEb@Base 4.97.0
- _ZN16KHistoryComboBox10rotateDownEv@Base 4.97.0
  _ZN16KHistoryComboBox10wheelEventEP11QWheelEvent@Base 4.97.0
  _ZN16KHistoryComboBox11insertItemsERK11QStringList@Base 4.97.0
  _ZN16KHistoryComboBox11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
@@ -95,13 +92,8 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN16KHistoryComboBox16staticMetaObjectE@Base 4.97.0
  _ZN16KHistoryComboBox17removeFromHistoryERK7QString@Base 4.97.0
  _ZN16KHistoryComboBox17setPixmapProviderEP15KPixmapProvider@Base 4.97.0
- _ZN16KHistoryComboBox19addContextMenuItemsEP5QMenu@Base 4.97.0
- _ZN16KHistoryComboBox21slotSimulateActivatedERK7QString@Base 4.97.0
  _ZN16KHistoryComboBox5resetEv@Base 4.97.0
  _ZN16KHistoryComboBox7clearedEv@Base 4.97.0
- _ZN16KHistoryComboBox8rotateUpEv@Base 4.97.0
- _ZN16KHistoryComboBox9slotClearEv@Base 4.97.0
- _ZN16KHistoryComboBox9slotResetEv@Base 4.97.0
  _ZN16KHistoryComboBoxC1EP7QWidget@Base 4.97.0
  _ZN16KHistoryComboBoxC1EbP7QWidget@Base 4.97.0
  _ZN16KHistoryComboBoxC2EP7QWidget@Base 4.97.0
@@ -126,8 +118,6 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN9KComboBox10completionERK7QString@Base 4.97.0
  _ZN9KComboBox10rotateTextEN15KCompletionBase14KeyBindingTypeE@Base 4.97.0
  _ZN9KComboBox10setEditUrlERK4QUrl@Base 4.97.0
- _ZN9KComboBox10wheelEventEP11QWheelEvent@Base 4.97.0
- _ZN9KComboBox11eventFilterEP7QObjectP6QEvent@Base 4.97.0
  _ZN9KComboBox11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
  _ZN9KComboBox11qt_metacastEPKc@Base 4.97.0
  _ZN9KComboBox11setEditableEb@Base 4.97.0
@@ -204,7 +194,6 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN9KLineEdit22setSqueezedTextEnabledEb@Base 4.97.0
  _ZN9KLineEdit25createStandardContextMenuEv@Base 4.97.0
  _ZN9KLineEdit25setCompletionModeDisabledEN11KCompletion14CompletionModeEb@Base 4.97.0
- _ZN9KLineEdit5clearEv@Base 4.97.0
  _ZN9KLineEdit5eventEP6QEvent@Base 4.97.0
  _ZN9KLineEdit6setUrlERK4QUrl@Base 4.97.0
  _ZN9KLineEdit7setTextERK7QString@Base 4.97.0
@@ -236,11 +225,11 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZNK14KCompletionBox18globalPositionHintEv@Base 4.97.0
  _ZNK14KCompletionBox5itemsEv@Base 4.97.0
  _ZNK14KCompletionBox8sizeHintEv@Base 4.97.0
+ _ZNK15KCompletionBase10keyBindingENS_14KeyBindingTypeE@Base 4.98.0
  _ZNK15KCompletionBase11emitSignalsEv@Base 4.97.0
- _ZNK15KCompletionBase13getKeyBindingENS_14KeyBindingTypeE@Base 4.97.0
  _ZNK15KCompletionBase13handleSignalsEv@Base 4.97.0
+ _ZNK15KCompletionBase13keyBindingMapEv@Base 4.98.0
  _ZNK15KCompletionBase14completionModeEv@Base 4.97.0
- _ZNK15KCompletionBase14getKeyBindingsEv@Base 4.97.0
  _ZNK15KCompletionBase29isCompletionObjectAutoDeletedEv@Base 4.97.0
  _ZNK15KCompletionBase7compObjEv@Base 4.97.0
  _ZNK15KCompletionBase8delegateEv@Base 4.97.0
