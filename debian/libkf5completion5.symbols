@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4.98.0 amd64
+# SymbolsHelper-Confirmed: 4.99.0 amd64
 libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN11KCompletion10allMatchesERK7QString@Base 4.97.0
  _ZN11KCompletion10allMatchesEv@Base 4.97.0
@@ -115,6 +115,9 @@ libKF5Completion.so.5 libkf5completion5 #MINVER#
  _ZN18KCompletionMatchesD1Ev@Base 4.97.0
  _ZN18KCompletionMatchesD2Ev@Base 4.97.0
  _ZN18KCompletionMatchesaSERKS_@Base 4.97.0
+ _ZN25KCompletionMatchesWrapper18findAllCompletionsEPK13KCompTreeNodeRK7QStringbRb@Base 4.99.0
+ _ZN25KCompletionMatchesWrapper22extractStringsFromNodeEPK13KCompTreeNodeRK7QStringb@Base 4.99.0
+ _ZN25KCompletionMatchesWrapper24extractStringsFromNodeCIEPK13KCompTreeNodeRK7QStringS5_@Base 4.99.0
  _ZN9KComboBox10completionERK7QString@Base 4.97.0
  _ZN9KComboBox10rotateTextEN15KCompletionBase14KeyBindingTypeE@Base 4.97.0
  _ZN9KComboBox10setEditUrlERK4QUrl@Base 4.97.0
