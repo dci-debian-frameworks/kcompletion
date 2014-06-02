@@ -35,7 +35,7 @@ License: LGPL-2+
 
 Files: autotests/kcompletioncoretest.cpp
        autotests/kcompletioncoretest.h
-Copyright: 2011 Kevin Ottens <ervin@kde.org>           
+Copyright: 2011 Kevin Ottens <ervin@kde.org>
 License: LGPL-2
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Library General Public
@@ -52,10 +52,10 @@ License: LGPL-2
  Boston, MA 02110-1301, USA.
  .
  On Debian systems, the complete text of the GNU Library General
- Public License version 2 can be found in "/usr/share/common-licenses/LGPL-2". 
-  
-Files: debian/*       
-Copyright: 2014 Scarlett Clark <scarlett@scarlettgatelyclark.com> 	  
+ Public License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
+
+Files: debian/*
+Copyright: 2014 Scarlett Clark <scarlett@scarlettgatelyclark.com>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
