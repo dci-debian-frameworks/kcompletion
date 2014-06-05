@@ -32,7 +32,6 @@ Description: development files for kcompletion
  Contains development files for kcompletion.
 
 Package: libkf5completion5
-Section: libdevel
 Architecture: any
 Depends: libkf5completion5-data (= ${source:Version}),
          ${misc:Depends},
