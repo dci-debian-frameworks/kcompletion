@@ -1,3 +1,9 @@
+kcompletion (5.4.0-0ubuntu2) UNRELEASED; urgency=medium
+
+  * Change -data to depend from Recommend. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 05 Dec 2014 06:54:12 -0800
+
 kcompletion (5.4.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
