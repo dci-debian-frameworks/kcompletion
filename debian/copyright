@@ -3,24 +3,25 @@ Upstream-Name: kcompletion
 Source: https://projects.kde.org/projects/frameworks/kcompletion
 
 Files: *
-       debian/*
-Copyright: © 1999-2002 Carsten Pfeiffer <pfeiffer@kde.org>
-           © 2000-2004 Dawit Alemayehu <adawit@kde.org>
-           © 2000 Stefan Schimanski <1stein@gmx.de>
-           © 1999 Preston Brown <pbrown@kde.org>
-           © 1999 Waldo Bastian <bastian@kde.org>
-           © 1997 Sven Radej <sven.radej@iname.com>
-           © 2002 Michael Matz <matz@kde.org>
-           © 2005 Thomas Braxton <brax108@cox.net>
-           © 1999 Patrick Ward <pat_ward@hp-usa-om5.om.hp.com>
-           © 2007 David Faure <faure@kde.org>
-           © 2007 Aaron Seigo <aseigo@kde.org>
-           2014 Scarlett Clark <sgclark@kubuntu.org>
+Copyright: 2007, Aaron Seigo <aseigo@kde.org>
+           1999-2002, Carsten Pfeiffer <pfeiffer@kde.org>
+           2007, David Faure <faure@kde.org>
+           2000-2004, Dawit Alemayehu <adawit@kde.org>
+           2002, Michael Matz <matz@kde.org>
+           1999, Patrick Ward <PAT_WARD@HP-USA-om5.om.hp.com>
+           1999, Preston Brown <pbrown@kde.org>
+           2000, Stefan Schimanski <1Stein@gmx.de>
+           1997, Sven Radej <sven.radej@iname.com>
+           1999, Waldo Bastian <bastian@kde.org>
 License: LGPL-2+
+
+Files: autotests/kcompletioncoretest.cpp
+       autotests/kcompletioncoretest.h
+Copyright: 2005, Thomas Braxton <brax108@cox.net>
+License: LGPL-2
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Library General Public
- License as published by the Free Software Foundation; either
- version 2 of the License, or (at your option) any later version.
+ License version 2 as published by the Free Software Foundation.
  .
  This library is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -35,13 +36,15 @@ License: LGPL-2+
  On Debian systems, the complete text of the GNU Library General
  Public License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
 
-Files: autotests/kcompletioncoretest.cpp
-       autotests/kcompletioncoretest.h
-Copyright: 2011 Kevin Ottens <ervin@kde.org>
-License: LGPL-2
+Files: debian/*
+Copyright: 2014, Scarlett Clark <sgclark@kubuntu.org>
+License: LGPL-2+
+
+License: LGPL-2+
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Library General Public
- License version 2 as published by the Free Software Foundation.
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later version.
  .
  This library is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
