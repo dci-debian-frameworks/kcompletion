@@ -4,6 +4,7 @@ kcompletion (5.6.0-1~) UNRELEASED; urgency=medium
   * Bump build dependencies to build against the experimental versions.
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Set the -data as a dependency of the lib.
+  * Update install files.
 
  -- Maximiliano Curia <maxy@debian.org>  Sun, 25 Jan 2015 19:38:31 +0100
 
