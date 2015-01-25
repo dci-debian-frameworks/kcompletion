@@ -1,4 +1,4 @@
-kcompletion (5.6.0-1~) UNRELEASED; urgency=medium
+kcompletion (5.6.0-1) experimental; urgency=medium
 
   * New upstream release (5.6.0).
   * Bump build dependencies to build against the experimental versions.
@@ -10,7 +10,7 @@ kcompletion (5.6.0-1~) UNRELEASED; urgency=medium
   * Update copyright information.
   * Add basic autopkgtests support.
 
- -- Maximiliano Curia <maxy@debian.org>  Sun, 25 Jan 2015 19:38:31 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 25 Jan 2015 21:09:57 +0100
 
 kcompletion (5.2.0-0ubuntu1) utopic; urgency=medium
 
