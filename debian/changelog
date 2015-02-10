@@ -1,8 +1,8 @@
-kcompletion (5.7.0-0ubuntu1) UNRELEASED; urgency=medium
+kcompletion (5.7.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Harald Sitter <sitter@kde.org>  Mon, 09 Feb 2015 09:47:12 +0100
+ -- Harald Sitter <sitter@kde.org>  Tue, 10 Feb 2015 16:17:22 +0100
 
 kcompletion (5.6.0-0ubuntu1) vivid; urgency=medium
 
