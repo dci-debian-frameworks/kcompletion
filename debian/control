@@ -24,8 +24,8 @@ Package: libkf5completion-dev
 Section: libdevel
 Architecture: any
 Depends: libkf5completion5 (= ${binary:Version}),
-         libkf5config-dev,
-         libkf5widgetsaddons-dev,
+         libkf5config-dev (>= 5.7.0~),
+         libkf5widgetsaddons-dev (>= 5.7.0~),
          ${misc:Depends}
 Description: development files for kcompletion
  KCompletion provides widgets with advanced completion support as well as a
