@@ -16,7 +16,7 @@ Build-Depends: cmake,
                xvfb
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/frameworks/kcompletion
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/frameworks/kcompletion.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/frameworks/kcompletion.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/kcompletion.git
 
 Package: libkf5completion-dev
