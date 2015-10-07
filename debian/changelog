@@ -1,4 +1,4 @@
-kcompletion (5.15.0-0ubuntu1) UNRELEASED; urgency=medium
+kcompletion (5.15.0-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
   * Vivid backport
@@ -6,7 +6,7 @@ kcompletion (5.15.0-0ubuntu1) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * new upstream release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 05 Oct 2015 19:35:05 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 07 Oct 2015 13:43:59 +0100
 
 kcompletion (5.14.0-0ubuntu1) wily; urgency=medium
 
