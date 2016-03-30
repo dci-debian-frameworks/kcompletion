@@ -1,6 +1,6 @@
-kcompletion (5.20.0-1~2.gbp5a1637) UNRELEASED; urgency=medium
+kcompletion (5.20.0-1~3.gbp1bb858) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @5a1637beb209da7aeb4b191d9a848967089dd5b7 **
+  ** SNAPSHOT build @1bb8584a6c5559f80a29baccefdc2703762d5f5c **
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -13,8 +13,9 @@ kcompletion (5.20.0-1~2.gbp5a1637) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 30 Mar 2016 09:42:36 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 30 Mar 2016 11:06:36 +0200
 
 kcompletion (5.19.0-1) experimental; urgency=medium
 
