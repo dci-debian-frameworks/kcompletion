@@ -1,6 +1,6 @@
-kcompletion (5.20.0-1~4.gbp0a0d24) UNRELEASED; urgency=medium
+kcompletion (5.20.0-1~5.gbpaf7578) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @0a0d24f56b5889368ab789b65834262c3c20ae05 **
+  ** SNAPSHOT build @af757852d403e3204e83f8828cd0cd689ac06e88 **
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -15,8 +15,9 @@ kcompletion (5.20.0-1~4.gbp0a0d24) UNRELEASED; urgency=medium
   * UNRELEASED
   * UNRELEASED
   * Update acc test script
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 01 Apr 2016 17:06:18 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Fri, 01 Apr 2016 17:06:33 +0200
 
 kcompletion (5.19.0-1) experimental; urgency=medium
 
