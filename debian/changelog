@@ -1,29 +1,16 @@
-kcompletion (5.21.0-1~1.gbpf8d54e) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @f8d54eeed55cc170de0959c934ee280f534bd704 **
+kcompletion (5.21.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * debian/control: Update Vcs-Browser and Vcs-Git fields
-
-  [ Automatic packaging ]
-  * Update build-deps and deps with the info from cmake
-
-  [ Maximiliano Curia ]
-  * UNRELEASED
-  * UNRELEASED
   * Update acc test script
-  * UNRELEASED
   * uscan no longer supports more than one main upstream tarball being listed
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
-  [ Maximiliano Curia ]
-
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 10:06:30 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 06 May 2016 08:48:27 +0200
 
 kcompletion (5.19.0-1) experimental; urgency=medium
 
