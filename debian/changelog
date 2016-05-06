@@ -1,3 +1,11 @@
+kcompletion (5.21.0-2~1.gbp33636b) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @33636bf0ea24b653c690341302a977c3ca86b9d9 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Fri, 06 May 2016 09:06:15 +0200
+
 kcompletion (5.21.0-1) experimental; urgency=medium
 
   [ Maximiliano Curia ]
