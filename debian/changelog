@@ -1,13 +1,10 @@
-kcompletion (5.22.0-1~1.gbpaa9bef) UNRELEASED; urgency=medium
+kcompletion (5.22.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @aa9bef8ee8bf74135456f30a70b99152c5c25590 **
-
+  [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
-  * Bump Standards-Version to 3.9.8
-  * Update changelog for 5.21.0-1~2.gbp647539 release
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Mon, 16 May 2016 01:20:32 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 19 May 2016 16:18:48 +0200
 
 kcompletion (5.21.0-1) experimental; urgency=medium
 
