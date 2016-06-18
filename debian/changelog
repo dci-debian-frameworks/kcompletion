@@ -1,10 +1,9 @@
-kcompletion (5.23.0-1~1.gbp33980f) UNRELEASED; urgency=medium
+kcompletion (5.23.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @33980f31c7d3efc9e3c79e312a544c3cc8aff890 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sun, 12 Jun 2016 20:06:23 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 18 Jun 2016 18:45:48 +0200
 
 kcompletion (5.22.0-1) unstable; urgency=medium
 
