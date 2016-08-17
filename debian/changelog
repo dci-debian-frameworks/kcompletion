@@ -1,11 +1,17 @@
-kcompletion (5.25.0-1~1.gbp7bbd53) UNRELEASED; urgency=medium
+kcompletion (5.25.0-1~2.gbp473cb6) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @473cb62e8441b46bc1c398b0c86d42df7929a1ee **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @7bbd53ac64465dfc44eb6ce27a16b3f3b171abf6 **
 
   * Update build-deps and deps with the info from cmake
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 13 Aug 2016 14:06:11 +0200
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.25)
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 17 Aug 2016 22:06:30 +0200
 
 kcompletion (5.23.0-1) unstable; urgency=medium
 
