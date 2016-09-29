@@ -1,10 +1,12 @@
-kcompletion (5.26.0-1~1.gbpe84a20) UNRELEASED; urgency=medium
+kcompletion (5.26.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @e84a20b19891d3387702810689db8b90cfc69b3a **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 10 Sep 2016 14:06:59 +0200
+  [ Maximiliano Curia ]
+  * Bump group breaks (5.26)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 29 Sep 2016 11:58:50 +0200
 
 kcompletion (5.25.0-1) unstable; urgency=medium
 
