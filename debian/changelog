@@ -1,3 +1,11 @@
+kcompletion (5.28.0-1~1.gbp2e725b) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @2e725b0b46b5c4487cd1944e7b10dcfd2bd417d0 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 15 Nov 2016 20:06:43 +0100
+
 kcompletion (5.27.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
