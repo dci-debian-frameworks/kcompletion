@@ -31,9 +31,9 @@ Description: development files for kcompletion
  lower-level completion class which can be used with your own widgets.
  .
  Contains development files for kcompletion.
-Breaks: kio-dev (<< 5.27),
-        libkf5kio-dev (<< 5.27),
-        libkf5textwidgets-dev (<< 5.27)
+Breaks: kio-dev (<< 5.28),
+        libkf5kio-dev (<< 5.28),
+        libkf5textwidgets-dev (<< 5.28)
 
 Package: libkf5completion5
 Architecture: any
@@ -44,19 +44,19 @@ Depends: libkf5completion-data (= ${source:Version}),
 Description: Widgets with advanced auto-completion features.
  KCompletion provides widgets with advanced completion support as well as a
  lower-level completion class which can be used with your own widgets.
-Breaks: frameworkintegration (<< 5.27),
-        kdesignerplugin (<< 5.27),
-        kio (<< 5.27),
-        libkf5kdelibs4support5 (<< 5.27),
-        libkf5kdelibs4support5-bin (<< 5.27),
-        libkf5khtml5 (<< 5.27),
-        libkf5kiofilewidgets5 (<< 5.27),
-        libkf5kiowidgets5 (<< 5.27),
-        libkf5krossui5 (<< 5.27),
-        libkf5newstuff5 (<< 5.27),
-        libkf5notifyconfig5 (<< 5.27),
-        libkf5texteditor5 (<< 5.27),
-        libkf5textwidgets5 (<< 5.27)
+Breaks: frameworkintegration (<< 5.28),
+        kdesignerplugin (<< 5.28),
+        kio (<< 5.28),
+        libkf5kdelibs4support5 (<< 5.28),
+        libkf5kdelibs4support5-bin (<< 5.28),
+        libkf5khtml5 (<< 5.28),
+        libkf5kiofilewidgets5 (<< 5.28),
+        libkf5kiowidgets5 (<< 5.28),
+        libkf5krossui5 (<< 5.28),
+        libkf5newstuff5 (<< 5.28),
+        libkf5notifyconfig5 (<< 5.28),
+        libkf5texteditor5 (<< 5.28),
+        libkf5textwidgets5 (<< 5.28)
 
 Package: libkf5completion-data
 Architecture: all
