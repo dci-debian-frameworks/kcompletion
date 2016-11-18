@@ -1,10 +1,13 @@
-kcompletion (5.28.0-1~1.gbp2e725b) UNRELEASED; urgency=medium
+kcompletion (5.28.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @2e725b0b46b5c4487cd1944e7b10dcfd2bd417d0 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 15 Nov 2016 20:06:43 +0100
+  [ Maximiliano Curia ]
+  * New upstream release (5.28)
+  * Bump group breaks (5.28)
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 18 Nov 2016 16:03:34 +0100
 
 kcompletion (5.27.0-1) unstable; urgency=medium
 
