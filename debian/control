@@ -58,6 +58,7 @@ Description: Widgets with advanced auto-completion features (documentation)
  lower-level completion class which can be used with your own widgets.
  .
  This package contains the qch documentation files.
+Section: doc
 
 Package: libkf5completion5
 Architecture: any
