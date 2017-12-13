@@ -1,8 +1,14 @@
-kcompletion (5.41.0-1~) UNRELEASED; urgency=medium
+kcompletion (5.41.0-1~1) UNRELEASED; urgency=medium
 
+  [ Maximiliano Curia ]
   * New upstream release (5.41.0).
+  * Bump Standards-Version to 4.1.2.
+  * Update build-deps and deps with the info from cmake
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 13 Dec 2017 11:44:30 -0300
+  [ Helmut Grohne ]
+  * Fix FTCBFS: Annotate libqt5sql5-sqlite with :native. (Closes: 882899)
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 13 Dec 2017 12:03:21 -0300
 
 kcompletion (5.41.0-0neon) xenial; urgency=medium
 
