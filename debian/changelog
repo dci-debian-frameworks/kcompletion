@@ -1,9 +1,10 @@
-kcompletion (5.42.0-4~) UNRELEASED; urgency=medium
+kcompletion (5.42.0-4) sid; urgency=medium
 
   * New revision
   * Fix typo
+  * Release to sid
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Feb 2018 13:06:30 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Feb 2018 13:07:06 +0100
 
 kcompletion (5.42.0-3) sid; urgency=medium
 
