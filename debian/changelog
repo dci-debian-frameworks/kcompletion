@@ -1,12 +1,13 @@
-kcompletion (5.42.0-3~) UNRELEASED; urgency=medium
+kcompletion (5.42.0-3) sid; urgency=medium
 
   [ Maximiliano Curia ]
   * New revision
+  * Release to sid
 
   [ Adrian Bunk ]
   * Fix FTBFS on architectures where Qt uses OpenGL ES (Closes: 890122)
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Feb 2018 08:22:47 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 12 Feb 2018 08:45:37 +0100
 
 kcompletion (5.42.0-2) sid; urgency=medium
 
